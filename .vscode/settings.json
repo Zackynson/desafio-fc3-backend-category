@@ -1,0 +1,27 @@
+{
+    "peacock.remoteColor": "#215732",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#452f7c",
+        "activityBar.activeBorder": "#422c74",
+        "activityBar.background": "#452f7c",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#422c74",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "sash.hoverBorder": "#452f7c",
+        "tab.activeBorder": "#452f7c",
+        "titleBar.activeBackground": "#452f7c",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#452f7c99",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#452f7c",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#513da1",
+        "statusBarItem.remoteBackground": "#452f7c",
+        "statusBarItem.remoteForeground": "#e7e7e7"
+    },
+    "conventionalCommits.scopes": [
+        "devcontainer.json",
+        "settings.json"
+    ]
+}
